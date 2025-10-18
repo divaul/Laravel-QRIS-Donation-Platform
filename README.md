@@ -244,4 +244,3 @@ Dokumentasi: [Midtrans Testing](https://docs.midtrans.com/en/technical-reference
 - [Saweria](https://saweria.co) - Original inspiration
 
 
-⭐ **Star this repository** jika project ini membantu Anda!
